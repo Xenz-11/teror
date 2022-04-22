@@ -48,7 +48,6 @@ def loginn():
           print('\n\x1b[1;92mBerhasil Login\x1b[00m')
           time.sleep(2)
           clear()
-          banner()
        else:
           print('\x1b[1;91mPassword Salah\x1b[00m')
           time.sleep(3)
