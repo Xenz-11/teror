@@ -1,3 +1,5 @@
+def clear():
+    os.system("clear")
 def sc():
     print"\x1b[1;92m"
     pilih = int(input("Pilih No : "))
