@@ -46,7 +46,7 @@ def loginn():
        pas = input('Password : ')
        if pas == tai:
           print('\n\x1b[1;92mBerhasil Login\x1b[00m')
-          time.sleep(2)
+          time.sleep(1)
           clear()
        else:
           print('\x1b[1;91mPassword Salah\x1b[00m')
