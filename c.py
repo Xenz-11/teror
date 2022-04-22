@@ -1,3 +1,5 @@
+import os,sys,requests,time
+
 def clear():
     os.system("clear")
 def sc():
