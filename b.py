@@ -30,7 +30,6 @@ def banner():
     au='\x1b[1;92m[•]\x1b[1;93m Author   : Xenz\n\x1b[1;92m[•]\x1b[1;93m Github   : github.com/Xenz-11\n\x1b[1;92m[•]\x1b[1;93m Facebook : Xenz Why'
     pengembang1=nel(au,style="cyan")
     cetak(nel(pengembang1, title='[ INFORMASI PENGEMBANG ]'))
-5
 def menu():
     pilih = '# MENU'
     mana = mark(pilih, style='yellow')
