@@ -1,4 +1,4 @@
-#!/system/xbin/bash/sh/python
+#!/usr/bin/env bash
 read -p "Pilih No [+] " teror
 if [ $teror = 01 ] || [ $teror = 1 ]
 then
