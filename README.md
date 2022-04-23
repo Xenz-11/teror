@@ -2,7 +2,7 @@
 ```python
 pkg update && pkg upgrade -y
 pkg install python python2 -y
-pip install bs4
+pip install requests mechanize bs4
 pkg install git -y
 ```
 # Run Script
